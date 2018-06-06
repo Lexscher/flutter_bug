@@ -14,6 +14,9 @@ I'll update this readme as often as I can!
 
 -----
 
+I'm walking through how to get started on Flutter's website. There is a tutorial, [here](https://flutter.io/get-started/codelab/), that you can use to build your first flutter app. The best thing is, you don't even need to have experience with dart or mobile development!
+
+
 #### Thank you for taking an interest in my code
 
 ### Best,
