@@ -23,8 +23,9 @@ I'm walking through how to get started on Flutter's website. There is a tutorial
 
 Okay. Instead, I'll do mini flutter projects, and link them in this readme(because I have a cool idea for this repo). Also, when I finished the tutorial, there were more _[things to do!](https://flutter.io/get-started/learn-more/)_!
 
- [Startup Name Generator](https://github.com/Lexscher/startup_namer)
+## 1. [Startup Name Generator](https://github.com/Lexscher/startup_namer)
 
+## 2. [flutter_layout_tutorial](https://github.com/Lexscher/flutter_layout_tutorial)
 
 
 #### Thank you for taking an interest in my code
