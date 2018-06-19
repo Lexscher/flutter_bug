@@ -3,8 +3,8 @@
 A new Flutter project.
 ----
 ### UPDATE: The flutter projects are being put on hold
-###### I would like to continue my machine learning learning(teehee). 
-###### There are certain deadlines that were shifted around, so python & machine learning have become my main priority. 
+###### So much to learn. 
+###### So little time.
 #### Don't worry! We'll be back flying with Flutter in _no time_! 
 ## Thank you for understanding.
 ----
